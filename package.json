@@ -1,0 +1,22 @@
+{
+  "name": "front-end-web-ui-frameworks-overview-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeep-jaiswar/Front-end-Web-UI-Frameworks-Overview-Bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeep-jaiswar/Front-end-Web-UI-Frameworks-Overview-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/sandeep-jaiswar/Front-end-Web-UI-Frameworks-Overview-Bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
